@@ -1,0 +1,4 @@
+message,airline_code,number_of_fellow_passenger,did_receive_compensation,total_compensation_amount
+it was ok,1123,321,yes,500
+i am happy,4432,502,yes,300
+not bad,1123,11,yes,100

@@ -1,0 +1,44 @@
+{
+    "customer1":
+	{
+            "message": "very good!",
+            "airline_code": 11,
+	    "number_of_fellow_passenger": 320,
+	    "did_receive_compensation": "yes",
+	    "total_compensation_amount": 210
+        },
+	
+    "customer2":
+	{
+            "message": "not bad",
+            "airline_code": 11,
+	    "number_of_fellow_passenger": 310,
+	    "did_receive_compensation": "no",
+	    "total_compensation_amount": 0
+        },
+    "customer3":
+	{
+            "message": "didnt receive money",
+            "airline_code": 14,
+	    "number_of_fellow_passenger": 123,
+	    "did_receive_compensation": "no",
+	    "total_compensation_amount": 0
+        },
+    "customer4":
+	{
+            "message": "i am happy of this",
+            "airline_code": 11,
+	    "number_of_fellow_passenger": 390,
+	    "did_receive_compensation": "yes",
+	    "total_compensation_amount": 230
+        },
+    "customer5":
+	{
+            "message": "nice!",
+            "airline_code": 11,
+	    "number_of_fellow_passenger": 231,
+	    "did_receive_compensation": "yes",
+	    "total_compensation_amount": 350
+        }
+}
+
